@@ -2,6 +2,11 @@
 
 Scaffold an opinionated Next.js app into the current folder.
 
+> [!IMPORTANT]
+> This is a scaffolding tool — **run it, don't install it.** Ignore the
+> `npm i create-genesis-app` shown above (npm prints that for every package).
+> Use `create` instead:
+
 ```bash
 pnpm create genesis-app .      # into the current directory
 pnpm create genesis-app my-app # into ./my-app
