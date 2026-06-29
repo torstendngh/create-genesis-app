@@ -1,6 +1,6 @@
 {
   "name": "create-genesis-app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Scaffold a Next.js app (App Router, TypeScript, Tailwind v4) into the current folder.",
   "type": "module",
   "bin": {
