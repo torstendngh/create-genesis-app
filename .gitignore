@@ -1,0 +1,19 @@
+# dependencies (matches node_modules at any depth, incl. template/node_modules)
+node_modules/
+
+# next.js / build output — created when previewing the template in place
+.next/
+out/
+build/
+*.tsbuildinfo
+
+# the template's own dev-install lockfile (scaffolds get their own)
+template/pnpm-lock.yaml
+
+# packaging
+*.tgz
+
+# misc
+.DS_Store
+*.pem
+.claude

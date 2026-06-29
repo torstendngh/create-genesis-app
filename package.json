@@ -1,0 +1,27 @@
+{
+  "name": "create-genesis-app",
+  "version": "0.1.0",
+  "description": "Scaffold a Next.js app (App Router, TypeScript, Tailwind v4) into the current folder.",
+  "type": "module",
+  "bin": {
+    "create-genesis-app": "bin/index.js"
+  },
+  "files": [
+    "bin",
+    "template"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "next",
+    "nextjs",
+    "react",
+    "tailwind",
+    "typescript",
+    "create",
+    "template",
+    "starter"
+  ],
+  "license": "MIT"
+}
